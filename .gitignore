@@ -1,0 +1,12 @@
+# Database
+places.db
+
+# Text files
+*.txt
+
+# Prompts directory
+/prompts/
+
+# Run scripts
+RUN.bat
+run.sh
